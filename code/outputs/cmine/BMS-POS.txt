@@ -1,0 +1,108 @@
+Testing minRF=0.05
+Run time: 654.4885845184326s
+ Peak memory: 273.8447570800781MB
+Testing minRF=0.06
+Run time: 44.451600313186646s
+ Peak memory: 273.8418960571289MB
+Testing minRF=0.07
+Run time: 23.754890203475952s
+ Peak memory: 273.84143829345703MB
+Testing minRF=0.08
+Run time: 6.614017963409424s
+ Peak memory: 273.8406448364258MB
+Testing minRF=0.09
+Run time: 5.80351448059082s
+ Peak memory: 273.8405532836914MB
+Testing minRF=0.1
+Run time: 5.072942018508911s
+ Peak memory: 273.84046173095703MB
+Testing maxOR=0.05
+Run time: 8.822137117385864s
+ Peak memory: 273.8450393676758MB
+Testing maxOR=0.06
+Run time: 8.813807487487793s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.07
+Run time: 8.833444833755493s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.08
+Run time: 9.000669002532959s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.09
+Run time: 9.354800701141357s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.1
+Run time: 10.15223479270935s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.11
+Run time: 11.22473430633545s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.12
+Run time: 11.97388219833374s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.13
+Run time: 13.102913856506348s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.14
+Run time: 14.744953155517578s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.15
+Run time: 15.871179580688477s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.16
+Run time: 18.768723487854004s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.17
+Run time: 22.2070152759552s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.18
+Run time: 27.369893789291382s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.19
+Run time: 33.754961013793945s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.2
+Run time: 40.394272565841675s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.21
+Run time: 50.05157136917114s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.22
+Run time: 70.35960340499878s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.23
+Run time: 76.50952124595642s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.24
+Run time: 92.75922656059265s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.25
+Run time: 116.80842328071594s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.26
+Run time: 146.55981397628784s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.27
+Run time: 186.4210011959076s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.28
+Run time: 247.79296040534973s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.29
+Run time: 323.087682723999s
+ Peak memory: 273.84476470947266MB
+Testing minRF=0.04
+Run time: 8308.39864563942s
+ Peak memory: 273.8465576171875MB
+Testing maxOR=0.31
+Run time: 537.5109302997589s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.32
+Run time: 694.4107284545898s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.33
+Run time: 926.1667861938477s
+ Peak memory: 273.84476470947266MB
+Testing maxOR=0.34
+Run time: 1218.409518480301s
+ Peak memory: 273.84476470947266MB

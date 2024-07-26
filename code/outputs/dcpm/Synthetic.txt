@@ -1,0 +1,33 @@
+Testing minRF=0.042
+Run time: 1519.4881029129028s
+ Peak memory: 2931.836813926697MB
+Shuffled memory: 0
+Testing minRF=0.043
+Run time: 383.9267644882202s
+ Peak memory: 694.2956686019897MB
+Shuffled memory: 0
+Testing minRF=0.044
+Run time: 112.93275189399719s
+ Peak memory: 164.32886600494385MB
+Shuffled memory: 0
+Testing minRF=0.045
+Run time: 67.80968856811523s
+ Peak memory: 79.59226894378662MB
+Shuffled memory: 0
+Testing minRF=0.046
+Run time: 31.967813968658447s
+ Peak memory: 39.0354642868042MB
+Shuffled memory: 0
+Testing minRF=0.047
+Run time: 22.752755165100098s
+ Peak memory: 39.02211093902588MB
+Shuffled memory: 0
+Testing minRF=0.048
+Run time: 22.82199454307556s
+ Peak memory: 39.02035140991211MB
+Shuffled memory: 0
+Testing minRF=0.049
+Run time: 22.916797161102295s
+ Peak memory: 39.021477699279785MB
+Shuffled memory: 0
+Testing minCS=0.5
